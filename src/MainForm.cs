@@ -469,7 +469,6 @@ namespace Simple_Hyperterminal
             {
                 Console.WriteLine("Exception: " + e.Message);
             }
-            Console.WriteLine(line);
             return line;
         }
 
